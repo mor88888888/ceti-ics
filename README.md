@@ -8,6 +8,27 @@ La guía contiene introducciones teóricas y referencias, y sobretodo ejercicios
 
 🚧 En elaboración.
 
+## Contenido
+
+La estructura está basada en las unidades didácticas propuestas para el curso de especialización en el Anexo I de la [guía oficial](https://www.boe.es/eli/es/rd/2020/04/07/479) publicada en el BOE para esta y el resto de asignaturas.
+
+Unidad 0 - Introducción y conocimientos previos
+Unidad 1 - Detección y documentación de incidentes de ciberseguridad
+Unidad 2 - Auditoría de incidentes de ciberseguridad
+Unidad 3 - Investigación de los incidentes de ciberseguridad
+Unidad 4 - Implementación de medidas de ciberseguridad (contención y erradicación)
+Unidad 5 - Desarrollo de planes de prevención y concienciación en ciberseguridad
+
+## Referencias generales
+
+NIST 800-61 rev2 (en) - https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf
+
+CCN-STIC 817 (es) - https://ccn-cert.cni.es/es/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/988-ccn-stic-817-gestion-de-ciberincidentes/file?format=html
+
+CCN-CERT BP/21 (es) - https://www.ccn-cert.cni.es/es/series-ccn-stic/informes-de-ciberseguridad-ccn-cert/informes-ccn-cert-buenas-practicas-bp/5864-ccn-cert-bp-21-gestion-de-incidentes-de-ransomware/file.html
+
+Claves para la gestión de ciberincidentes - Infografía (Lucia): https://angeles.ccn-cert.cni.es/index.php/es/docman/documentos-publicos/355-ciberconsejos-lucia-claves-para-la-gestion-de-ciberincidentes/file
+
 ## Contribuir
 
 Este repositorio es un recurso educativo de uso abierto para cometidos sin ánimo de lucro. Sería una suerte recibir contribuciones y convertirlo en algo colaborativo. La forma de contribuir puede ser mediante la creación de Issues o peticiones de Pull Request.
