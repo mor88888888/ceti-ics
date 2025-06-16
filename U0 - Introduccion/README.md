@@ -23,8 +23,8 @@ Buscar información sobre las siguientes preguntas y conceptos, ya sea de forma 
 - ¿Cómo evitar el éxito del atacante? (O al menos dificultarlo lo máximo posible)
 - ¿Cómo me voy a origanizar cuando ocurra un incidente?
 
-Fases de un incidente:
-![IR-Lifecycle](/U0%20-%20Introduccion/_resources/IR-Lifecycle.png)[^1]
+Fases de un incidente[^1]:
+![IR-Lifecycle](/U0%20-%20Introduccion/_resources/IR-Lifecycle.png)
 
 [^1]: Imagen del ciclo de vida de un incidente según la guía NIST 800-61 (rev 2)
 

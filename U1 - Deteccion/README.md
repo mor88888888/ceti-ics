@@ -15,13 +15,13 @@ Además de otras tareas que se tratarán en posteriores unidades como:
 
 ## 1.1 Establecer un equipo de respuesta
 
-Diferencias entre SOC y CSIRT:
+Diferencias entre SOC y CSIRT[^1]:
 
-![e0e79279feb06cd6721dccfbf89f5d89.png](/U1%20-%20Deteccion/_resources/e0e79279feb06cd6721dccfbf89f5d89.png)[^1]
+![e0e79279feb06cd6721dccfbf89f5d89.png](/U1%20-%20Deteccion/_resources/e0e79279feb06cd6721dccfbf89f5d89.png)
 
-Organización genérica en un SOC:
+Organización genérica en un SOC[^2]:
 
-![53fa7c2ad062f92177841710e9b081cf.png](/U1%20-%20Deteccion/_resources/53fa7c2ad062f92177841710e9b081cf.png)[^2]
+![53fa7c2ad062f92177841710e9b081cf.png](/U1%20-%20Deteccion/_resources/53fa7c2ad062f92177841710e9b081cf.png)
 
 [^1]: IMPLANTACIÓN SIEM HP ARCSIGHT EXPRESS (Universitat Politècnica de València)
 [^2]: https://www.incibe.es/incibe-cert/blog/respondiendo-incidentes-industriales-soc-ot
@@ -48,11 +48,11 @@ El equipo de respuesta ante incidentes debe estar formado en, al menos:
 - Técnicas de ataque conocidas (ataque)
 - Búsqueda de información en fuentes abiertas (ciberinteligencia).
 
-## 1.2 Taxonomía de incidentes de ciberseguridad
+## 1.2 Taxonomía de incidentes de ciberseguridad[^3]
 
-![44482d3509c55c6b4e634fa33474ae46.png](/U1%20-%20Deteccion/_resources/44482d3509c55c6b4e634fa33474ae46.png)[^3]
+![44482d3509c55c6b4e634fa33474ae46.png](/U1%20-%20Deteccion/_resources/44482d3509c55c6b4e634fa33474ae46.png)
 
-[^3]: Esquema sobre como clasificar incidentes en funcion de la peligrosidad y el posible impacto.
+[^3]: Esquema sobre clasificación de incidentes en funcion de la peligrosidad y el posible impacto.
 
 Clasificación de incidentes según el CCN-STIC-817:
 - Contenido abusivo
@@ -66,9 +66,9 @@ Clasificación de incidentes según el CCN-STIC-817:
 - Vulnerable
 - Otros
 
-Clasificación del riesgo:
+Clasificación del riesgo[^4]:
 
-![ff9c3a1e104cc71477298eb43fc03d95.png](/U1%20-%20Deteccion/_resources/ff9c3a1e104cc71477298eb43fc03d95.png)[^4]
+![ff9c3a1e104cc71477298eb43fc03d95.png](/U1%20-%20Deteccion/_resources/ff9c3a1e104cc71477298eb43fc03d95.png)
 
 [^4]: https://www.coordinacae.com/blog/matriz-de-riesgos/
 
@@ -107,11 +107,11 @@ La colaboración e intercambio de información voluntaria entre empresas u organ
 
 ### Qué información compartir
 
-IoCs:
+IoCs[^5]:
 - Son evidencias específicas y concretas que demuestran que un sistema o red ha sido comprometido.
 - Se basan en firmas y patrones conocidos asociados con virus, malware u otras amenazas que suelen figurar en bases de datos públicas.
 
-![da15da7a032b54ee2bbf7ee4c29dc2a7.png](/U1%20-%20Deteccion/_resources/da15da7a032b54ee2bbf7ee4c29dc2a7.png)[^5]
+![da15da7a032b54ee2bbf7ee4c29dc2a7.png](/U1%20-%20Deteccion/_resources/da15da7a032b54ee2bbf7ee4c29dc2a7.png)
 
 [^5]: https://www.micromouse.com/2022/11/24/indicadores-de-compromiso-ioc-el-termometro-de-tus-sistemas/
 
