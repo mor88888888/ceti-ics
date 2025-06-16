@@ -17,11 +17,11 @@ Además de otras tareas que se tratarán en posteriores unidades como:
 
 Diferencias entre SOC y CSIRT:
 
-![e0e79279feb06cd6721dccfbf89f5d89.png](/U1%20-%20Deteccion/_resources/8acf7625a4b342a2aefefdbe91c64720)[^1]
+![e0e79279feb06cd6721dccfbf89f5d89.png](/U1%20-%20Deteccion/_resources/8acf7625a4b342a2aefefdbe91c64720.png)[^1]
 
 Organización genérica en un SOC:
 
-![53fa7c2ad062f92177841710e9b081cf.png](/U1%20-%20Deteccion/_resources/a8d51daf933349d2bdab89b6b99924c0)[^2]
+![53fa7c2ad062f92177841710e9b081cf.png](/U1%20-%20Deteccion/_resources/a8d51daf933349d2bdab89b6b99924c0.png)[^2]
 
 [^1]: IMPLANTACIÓN SIEM HP ARCSIGHT EXPRESS (Universitat Politècnica de València)
 [^2]: https://www.incibe.es/incibe-cert/blog/respondiendo-incidentes-industriales-soc-ot
@@ -50,7 +50,7 @@ El equipo de respuesta ante incidentes debe estar formado en, al menos:
 
 ## 1.2 Taxonomía de incidentes de ciberseguridad
 
-![44482d3509c55c6b4e634fa33474ae46.png](/U1%20-%20Deteccion/_resources/7fcd4d7cd8784348af160a5bdb6ba8e0)[^3]
+![44482d3509c55c6b4e634fa33474ae46.png](/U1%20-%20Deteccion/_resources/7fcd4d7cd8784348af160a5bdb6ba8e0.png)[^3]
 
 [^3]: Esquema sobre como clasificar incidentes en funcion de la peligrosidad y el posible impacto.
 
@@ -68,7 +68,7 @@ Clasificación de incidentes según el CCN-STIC-817:
 
 Clasificación del riesgo:
 
-![ff9c3a1e104cc71477298eb43fc03d95.png](/U1%20-%20Deteccion/_resources/dec1c284a1474c5c807dfcecc4fd8748)[^4]
+![ff9c3a1e104cc71477298eb43fc03d95.png](/U1%20-%20Deteccion/_resources/dec1c284a1474c5c807dfcecc4fd8748.png)[^4]
 
 [^4]: https://www.coordinacae.com/blog/matriz-de-riesgos/
 
@@ -111,7 +111,7 @@ IoCs:
 - Son evidencias específicas y concretas que demuestran que un sistema o red ha sido comprometido.
 - Se basan en firmas y patrones conocidos asociados con virus, malware u otras amenazas que suelen figurar en bases de datos públicas.
 
-![da15da7a032b54ee2bbf7ee4c29dc2a7.png](/U1%20-%20Deteccion/_resources/3e583320ab1a4847a008c22345afda13)[^5]
+![da15da7a032b54ee2bbf7ee4c29dc2a7.png](/U1%20-%20Deteccion/_resources/3e583320ab1a4847a008c22345afda13.png)[^5]
 
 [^5]: https://www.micromouse.com/2022/11/24/indicadores-de-compromiso-ioc-el-termometro-de-tus-sistemas/
 
