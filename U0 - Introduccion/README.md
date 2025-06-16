@@ -28,7 +28,9 @@ Fases de un incidente:
 
 [^1]: Imagen del ciclo de vida de un incidente según la guía NIST 800-61 (rev 2)
 
-## Ejercicios teóricos
+## Actividades propuestas
+
+Se proponen los siguientes ejercicios teóricos interactivos:
 - https://tryhackme.com/r/room/networkingconcepts
 - https://tryhackme.com/r/room/introtosecurityarchitecture
 - https://tryhackme.com/r/room/networkservices
