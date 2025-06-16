@@ -2,9 +2,13 @@
 
 Guía de referencia de la asignatura Incidentes de Ciberseguridad del [Curso de Especialización en Ciberseguridad](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/ce-ciberseguridad-entornos-tecnologias-informacion.html) de Formación Profesional en España.
 
-La guía tiene un enfoque práctico y autónomo basado en retos de plataformas online gratuitas como Tryhackme, Cybersefenders o Let's Defend. Se debería complementar con ejercicios en grupo y otras actividades que el docente crea oportunas.
+La guía contiene introducciones teóricas y referencias, y sobretodo ejercicios con un enfoque práctico y autónomo basado en retos de plataformas online gratuitas como Tryhackme, Cybersefenders o Let's Defend. Se debería complementar con ejercicios en grupo y otras actividades tutorizadas que el docente crea oportunas.
 
-# License
+# Contribuir
+
+Este repositorio es un recurso educativo de uso abierto para cometidos sin ánimo de lucro. Sería una suerte recibir contribuciones y convertirlo en algo colaborativo. La forma de contribuir puede ser mediante la creación de Issues o peticiones de Pull Request.
+
+# Licencia
 
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
