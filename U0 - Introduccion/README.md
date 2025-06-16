@@ -24,7 +24,7 @@ Buscar información sobre las siguientes preguntas y conceptos, ya sea de forma 
 - ¿Cómo me voy a origanizar cuando ocurra un incidente?
 
 Fases de un incidente:
-![IR-Lifecycle](/_resources/IR-Lifecycle.png)[^1]
+![IR-Lifecycle](/U0 - Introduccion/_resources/IR-Lifecycle.png)[^1]
 
 [^1]: Imagen del ciclo de vida de un incidente según la guía NIST 800-61 (rev 2)
 
