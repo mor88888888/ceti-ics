@@ -12,12 +12,12 @@ La guía contiene introducciones teóricas y referencias, y sobretodo ejercicios
 
 La estructura está basada en las unidades didácticas propuestas para el curso de especialización en el Anexo I de la [guía oficial](https://www.boe.es/eli/es/rd/2020/04/07/479) publicada en el BOE para esta y el resto de asignaturas.
 
-Unidad 0 - Introducción y conocimientos previos
-Unidad 1 - Detección y documentación de incidentes de ciberseguridad
-Unidad 2 - Auditoría de incidentes de ciberseguridad
-Unidad 3 - Investigación de los incidentes de ciberseguridad
-Unidad 4 - Implementación de medidas de ciberseguridad (contención y erradicación)
-Unidad 5 - Desarrollo de planes de prevención y concienciación en ciberseguridad
+- Unidad 0 - Introducción y conocimientos previos
+- Unidad 1 - Detección y documentación de incidentes de ciberseguridad
+- Unidad 2 - Auditoría de incidentes de ciberseguridad
+- Unidad 3 - Investigación de los incidentes de ciberseguridad
+- Unidad 4 - Implementación de medidas de ciberseguridad (contención y erradicación)
+- Unidad 5 - Desarrollo de planes de prevención y concienciación en ciberseguridad
 
 ## Referencias generales
 
@@ -31,7 +31,9 @@ Claves para la gestión de ciberincidentes - Infografía (Lucia): https://angele
 
 ## Contribuir
 
-Este repositorio es un recurso educativo de uso abierto para cometidos sin ánimo de lucro. Sería una suerte recibir contribuciones y convertirlo en algo colaborativo. La forma de contribuir puede ser mediante la creación de Issues o peticiones de Pull Request.
+Este repositorio es un recurso educativo de uso abierto para cometidos sin ánimo de lucro. Sería una suerte recibir contribuciones y convertirlo en algo colaborativo.
+
+La forma de contribuir puede ser mediante la creación de [Issues](https://github.com/mor88888888/ceti-ics/issues) o peticiones de [Pull Request](https://github.com/mor88888888/ceti-ics/pulls).
 
 ## Licencia
 
