@@ -49,7 +49,7 @@ Para realizar campañas de concienciación se pueden usar varias estrategias, en
   - Interactividad, realiza preguntas al público y fomenta que participen.
   - Narrativa clara, estructura la presentación y asegurate que las transiciones entre temas son coherentes.
   - Practica y prepara la presentación, improvisar está bien pero si solo te basas en ello puede que la gente pierda el hilo. Preparate posibles preguntas que puedan hacerte.
-4. NADIE NACE APRENDIDO[^3]: [qejx9je2wb5d1.jpeg](/U5%20-%20Concienciacion/_resources/qejx9je2wb5d1.jpeg)
+4. NADIE NACE APRENDIDO[^3]: [qejx9je2wb5d1.jpeg](/U5%20-%20Concienciacion/_resources/qejx9je2wb5d1.png)
   - Tener la valentía de exponerse a críticas y mejoras, y saber descargar las no constructivas.
   - Tener la humildad de encajar esas críticas y mejorar con ellas.
 
