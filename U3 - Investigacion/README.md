@@ -86,7 +86,7 @@ Linea temporal:
     - T1021.001: RDP
     - T1562.001: Disable or Modify Tools (disabled Defender)
 
-## 3.6 Ejercicios y prácticas
+## 3.6 Actividades propuestas
 
 Se proponen las siguientes actividades interactivas de tipo teórico/práctico:
 - https://tryhackme.com/room/redteamthreatintel

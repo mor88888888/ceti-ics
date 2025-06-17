@@ -127,7 +127,7 @@ Se conocen roles como:
 	- Útil para prevenir explotaciones, o para conocer las posibles debilidades que un atacante ya dentro de la infraestructura ha utilizado o puede utilizar.
 - Cybersecurity Architect: expertos en sistemas de detección y contención, y/o del SIEM. Necesarios para el mantenimiento de los sistemas, y para conocer qué medidas de contención o mitigación son posibles durante un incidente.
 
-## 2.4 Ejercicios y prácticas
+## 2.4 Actividades propuestas
 
 Se proponen las siguientes actividades interactivas de tipo teórico/práctico:
 
