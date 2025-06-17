@@ -52,14 +52,15 @@ Se proponen las siguientes actividades interactivas de tipo teórico/práctico.
 Contención:
 - https://tryhackme.com/r/room/pyramidofpainax
 
-Todo el proceso:
+Ejercicios que reunen la actuación en todo el proceso de IR (recapitulación):
 - https://tryhackme.com/r/room/incidentresponseprocess
 - https://tryhackme.com/r/room/irplaybooks
 
-Reporting:
+Comunicación:
 - https://tryhackme.com/r/room/dfirprocesslegalconsiderations
+- Ver https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf
 
-Mitigación (prácticas):
+Mitigación (se sugiere realizar un informe de incidente de alguna de las siguientes prácticas, [ejemplo](https://cash-hub.org/wp-content/uploads/sites/3/2020/11/3_5-Plantilla-de-informe-de-incidentes-de-seguridad-en-DPT.docx) plantilla sencilla):
 - https://tryhackme.com/r/room/follinamsdt
 - https://tryhackme.com/r/room/joomify
 - https://tryhackme.com/r/room/cactus
