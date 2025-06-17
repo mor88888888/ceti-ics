@@ -40,7 +40,7 @@ Las capturas y copias de comandos y consultas hechas, mejor que sobre que falten
 ## 3.4 Organizar y priorizar
 
 Esta parte es fundamental. De cara a no demorar la investigación de forma indefinida, hay que saber enfocar bien el análisis sabiendo:
-- Las preguntas que se quieren responder tal y como se ha indicado en el punto 2, ["Enfocar la investigación"](#32-enfocar-la-investigacion).
+- Las preguntas que se quieren responder tal y como se ha indicado en el punto 2, ["Enfocar la investigación"](#32-enfocar-la-investigación).
 - La información donde se que puedo encontrar la respuesta a esas preguntas. Priorizar de más probable a menos probable.
 - Si se puede segmentar, involucrar a varias personas en el análisis y compartir los resultados.
 
