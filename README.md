@@ -6,7 +6,7 @@ La guía contiene introducciones teóricas, referencias y, sobre todo, ejercicio
 
 ## Estado
 
-🚧 En elaboración.
+✅🔬 Publicación inicial. Puede encontrar erratas e imprecisiones. Por favor, [repórtelas](https://github.com/mor88888888/ceti-ics/issues).
 
 ## Contenido
 
