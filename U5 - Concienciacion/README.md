@@ -7,11 +7,15 @@
 - Confianza del cliente: Aumentar la confianza de los clientes en la empresa. Diferenciarse de la competencia mediante un enfoque proactivo en seguridad.
 
 Para este cometido, existen ejercicios como:
-- TableTop: https://www.tarlogic.com/es/blog/tabletop-ejercicios-de-simulacion/
-![a88cd772059b10543cd87721e9180a8b.png](/U5%20-%20Concienciacion/_resources/a88cd772059b10543cd87721e9180a8b.png)[^1]
+- TableTop[^1]: https://www.tarlogic.com/es/blog/tabletop-ejercicios-de-simulacion/
+
+![a88cd772059b10543cd87721e9180a8b.png](/U5%20-%20Concienciacion/_resources/a88cd772059b10543cd87721e9180a8b.png)
+
 - Ejercicios RedTeam: donde un atacante consentido intenta vulnerar la seguridad de la organización.
-- Ejercicios PurpleTeam: donde un equipo realiza pruebas de explotaciones conocidas y monitoriza al mismo tiempo si los sistemas de seguridad de la organización lo hubieran detectado.
-![7d1baa7e63e033fe88222e454ba7caff.png](/U5%20-%20Concienciacion/_resources/7d1baa7e63e033fe88222e454ba7caff.png)[^2]
+- Ejercicios PurpleTeam[^2]: donde un equipo realiza pruebas de explotaciones conocidas y monitoriza al mismo tiempo si los sistemas de seguridad de la organización lo hubieran detectado.
+
+![7d1baa7e63e033fe88222e454ba7caff.png](/U5%20-%20Concienciacion/_resources/7d1baa7e63e033fe88222e454ba7caff.png)
+
 - Campañas de concienciación para preparar a la empresa en ámbitos como:
 	- Qué hacer si detecto un comportamiento anómalo de ciertos sistemas.
 	- Qué hacer si intentan o consiguen estafarme o chantagearme y cómo evitarlo.
